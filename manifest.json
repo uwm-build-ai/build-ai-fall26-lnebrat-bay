@@ -1,14 +1,26 @@
 {
  "adoption_day": {
-  "sha": "3be379c5e0678d0a52b7a7a443c615823f51b856",
+  "sha": "2df51a0dea3c9d8d3d9a23aa7442d41cf749ecca",
   "entry": "my_app.md",
   "files": [
    "my_app.md"
   ],
   "by": "LNEBRAT",
   "engine": "c3389cd",
-  "at": "2026-11-02T17:35:15.098Z",
+  "at": "2026-11-02T17:36:06.606Z",
   "history": [
+   {
+    "sha": "2df51a0dea3c9d8d3d9a23aa7442d41cf749ecca",
+    "at": "2026-11-02T17:36:06.606Z",
+    "entry": "my_app.md",
+    "engine": "c3389cd",
+    "parts": [
+     "avatar_trigger",
+     "avatar"
+    ],
+    "todo": 0,
+    "note": "tour finished with my values"
+   },
    {
     "sha": "3be379c5e0678d0a52b7a7a443c615823f51b856",
     "at": "2026-11-02T17:35:15.098Z",
