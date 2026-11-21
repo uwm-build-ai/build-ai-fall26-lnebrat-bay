@@ -1,0 +1,16 @@
+- so_that: >-
+    Maya asks for help on one exercise, so that she gets unstuck in minutes
+    instead of hours
+  as_a: Second-year university student
+  headline: Request exercise help
+  i_want: Ask for help on one exercise
+  business_value: 60
+  value_why: >-
+    captures the student need before anything else can happencaptures the
+    student need before anything else can happen
+  tech_note: >-
+    comment: Simple submission form bound to a HelpRequest dataset.; advice:
+    Include course code and topic fields for accurate routing.
+  effort: 2
+  feature: feature_01
+  effort_why: Matches ask with help request, core marketplace functionality.
